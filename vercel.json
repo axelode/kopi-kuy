@@ -11,6 +11,18 @@
     ],
     "routes": [
         {
+            "src": "/shop",
+            "dest": "/dist/index.html"
+        },
+        {
+            "src": "/cart",
+            "dest": "/dist/index.html"
+        },
+        {
+            "src": "/",
+            "dest": "/dist/index.html"
+        },
+        {
             "src": "/(.*)",
             "dest": "/dist/index.html"
         }
