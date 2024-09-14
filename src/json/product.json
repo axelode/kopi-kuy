@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Kopi Robusta",
+        "options": [
+            {
+                "size": 100,
+                "price": 15000
+            },
+            {
+                "size": 500,
+                "price": 70000
+            },
+            {
+                "size": 1000,
+                "price": 110000
+            }
+        ]
+    },
+    {
+        "name": "Kopi Arabica",
+        "options": [
+            {
+                "size": 100,
+                "price": 24000
+            },
+            {
+                "size": 500,
+                "price": 115000
+            },
+            {
+                "size": 1000,
+                "price": 205000
+            }
+        ]
+    },
+    {
+        "name": "Kopi Toraja",
+        "options": [
+            {
+                "size": 100,
+                "price": 18000
+            },
+            {
+                "size": 500,
+                "price": 89000
+            },
+            {
+                "size": 1000,
+                "price": 177000
+            }
+        ]
+    },
+    {
+        "name": "Kopi Aceh Gayo",
+        "options": [
+            {
+                "size": 100,
+                "price": 11000
+            },
+            {
+                "size": 500,
+                "price": 48000
+            },
+            {
+                "size": 1000,
+                "price": 99000
+            }
+        ]
+    }
+]
