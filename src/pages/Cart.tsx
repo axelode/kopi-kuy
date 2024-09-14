@@ -31,10 +31,8 @@ const Cart = () => {
         const whatsappUrl = `https://wa.me/6281385153193?text=${encodeURI(message)}`;
         window.open(whatsappUrl, "_blank");
 
-        // Tunggu 10 detik, kemudian clear localStorage dan reload halaman
         setTimeout(() => {
             localStorage.removeItem("cart");
-            window.location.reload();
         }, 10000);
     };
 
